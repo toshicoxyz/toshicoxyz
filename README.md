@@ -1,6 +1,3 @@
-
-![An old rock in the desert](gif/Header.gif)
-
 <h1 align="center">PEDRO 😄:v: </h1>
 <H2> :wave: I’m a developer from Peru who is mainly interested in web technologies, specially in frontend development. </H2>
 
